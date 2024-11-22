@@ -1,5 +1,7 @@
 # Exploring Many Models: Analyzing the Modeling Space via Predictions
 
+**Due Date**: December 2, 2024
+
 ## Overview
 
 This assignment focuses on a critical concept in data analysis: **using predictions from a model to explore the "modeling space."** By working with the provided data and predictions, you’ll gain hands-on experience in uncovering interesting patterns and insights.
